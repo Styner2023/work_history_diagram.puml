@@ -1,0 +1,43 @@
+@startuml
+title Work History
+
+package "South America: Suriname 🇸🇷" {
+  MathTeacher : third to fifth grade mathematics
+  WesternUnion : Western Union
+  MirageCasino : Mirage casino
+}
+
+package "Southern California, America 🇺🇸" {
+  DellTaco : Dell Taco 🌮
+  PaylessShoeStore : Payless Shoe Store
+  Usbank : Usbank
+  WellsFargo : Wells Fargo Bank
+  WLAC : West Los Angeles College Counseling office
+  SuperCuts : Super Cuts
+  BMW : BMW of Beverly Hills
+  EnterpriseCA : Enterprise Car Rentals
+}
+
+package "Dallas, Texas 🇺🇸" {
+  EnterpriseTX : Enterprise Car Rentals
+  AutoWarranty : Auto Warranty Dallas TX
+  DFWSecurity : DFW Security
+  ADT : ADT Security
+  Vivint : Vivint Security
+  WestLakeFinancial : West Lake Financial
+  TimiosTitle : Timios Title
+}
+
+package "Entrepreneurship Route" {
+  SCapital : Started my own Single Member LLC: S Capital Holdings
+  DrOwusu : Dr Owusu Skin Care and Wellness
+  Oakmont : Oakmont and Associates
+  TechStars : TechStars MEET
+}
+
+package "Canada 🇨🇦" {
+  PatHome : Pat Home Renovation and Design
+  Construction : Construction work: demolition and caulking
+}
+
+@enduml
